@@ -64,7 +64,9 @@ make stop
 
 ### 5️⃣ Demo
 
-[![bScFC.gif](https://s3.gifyu.com/images/bScFC.gif)](https://gifyu.com/image/bScFC)
+<video controls>
+  <source src="https://github.com/Skander-BS/MongoDB-Agent/tree/main/src/media/demo.webm" type="video/webm">
+</video>
 
 ## 📜 License
 

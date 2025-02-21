@@ -62,6 +62,10 @@ After shutting down, clean up any remaining processes:
 make stop
 ```
 
+### 5️⃣ Demo
+
+![Demo](https://s3.gifyu.com/images/bScFC.gif)
+
 ## 📜 License
 
 This project is licensed under MIT Licence.

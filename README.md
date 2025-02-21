@@ -64,7 +64,10 @@ make stop
 
 ### 5️⃣ Demo
 
-[Watch the demo](https://raw.githubusercontent.com/Skander-BS/MongoDB-Agent/main/src/media/demo.mp4)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Skander-BS/MongoDB-Agent/main/src/media/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📜 License
 

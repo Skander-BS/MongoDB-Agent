@@ -15,8 +15,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Environment variables and secrets
-#.env
-
+.env
+*.env
 
 # Pip and dependencies
 pip-log.txt

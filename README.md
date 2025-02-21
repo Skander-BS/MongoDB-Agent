@@ -61,6 +61,9 @@ After shutting down, clean up any remaining processes:
 ```bash
 make stop
 ```
+### 6️⃣ Demo
+
+https://github.com/user-attachments/assets/53e2ed6e-083e-4930-b4ed-197a41bbe0b7
 
 ## 📜 License
 

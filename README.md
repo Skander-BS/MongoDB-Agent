@@ -6,7 +6,7 @@ A natural language MongoDB query agent powered by **LangChain** and **Groq LLM**
 
 - Query your MongoDB database using **human language**.
 - Utilizes **LangChain** for query processing.
-- Powered by **Groq LLM** for natural language understanding.
+- Powered by **Groq** for LLM support.
 - Simple and intuitive **Streamlit** frontend.
 - Cross-platform support (**Windows, macOS, Ubuntu**).
 

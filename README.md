@@ -52,7 +52,7 @@ Run:
 make start
 ```
 
-This will **launch the Streamlit app**.
+This will **launch the Streamlit app and the uvicorn server**.
 
 ### 5️⃣ Stop the application
 

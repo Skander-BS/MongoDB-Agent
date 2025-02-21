@@ -1,0 +1,26 @@
+# Ignore macOS system files
+.DS_Store
+
+# Virtual environment
+/venv/
+/env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+#.env
+
+
+# Pip and dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/

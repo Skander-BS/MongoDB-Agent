@@ -65,7 +65,7 @@ make stop
 ### 5️⃣ Demo
 
 <video controls>
-  <source src="https://github.com/Skander-BS/MongoDB-Agent/tree/main/src/media/demo.webm" type="video/webm">
+  <source src="https://raw.githubusercontent.com/Skander-BS/MongoDB-Agent/main/src/media/demo.webm" type="video/webm">
 </video>
 
 ## 📜 License

@@ -1,6 +1,6 @@
 # MongoDB-Agent
 
-A natural language MongoDB query agent powered by **LangChain** and **Groq LLM**, with a **Streamlit** frontend.
+A natural language MongoDB query agent powered by **LangChain** and **Groq**, with a **Streamlit** frontend.
 
 ## 🚀 Features
 
@@ -67,4 +67,4 @@ make stop
 This project is licensed under MIT Licence.
 
 ---
-Made with ❤️ by Skander BS <3
+Made with ❤️ by Skander BS 

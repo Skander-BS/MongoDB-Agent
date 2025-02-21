@@ -19,6 +19,10 @@ client = pymongo.MongoClient(MONGO_URI)
 db = client[MONGO_DATABASE]          
 chats_collection = db[MONGO_COLLECTION]  
 
+st.set_page_config(
+    page_title="MongoDB Agent"
+)
+
 st.markdown(
     """
     <div style="display: flex; justify-content: center; margin-right:140px">

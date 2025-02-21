@@ -64,7 +64,7 @@ make stop
 
 ### 5️⃣ Demo
 
-![Demo](https://s3.gifyu.com/images/bScFC.gif)
+[![bScFC.gif](https://s3.gifyu.com/images/bScFC.gif)](https://gifyu.com/image/bScFC)
 
 ## 📜 License
 
